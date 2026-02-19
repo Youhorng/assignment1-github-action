@@ -93,6 +93,7 @@ a:focus {
 .hero_area {
   position: relative;
   min-height: 100vh;
+  background-color: #1a1a2e;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
